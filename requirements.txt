@@ -1,0 +1,4 @@
+jsonschema==4.3.1
+bs4==0.0.1
+paho-mqtt==1.6.1
+influxdb-client==1.23.0
