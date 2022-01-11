@@ -14,8 +14,8 @@ auth={'username':"demo-v3-application",'password':"NNSXS.MUC4M7BKHJES6KLD3AMW4CN
 
 # This is data for initializing InfluxDB2.0 Client
 bucket = "testing"
-org = "8e6aa7bc7f6bec91"
-token = "5Pb0iOzMedOHRzomYYrLWi7yuvdBM2Rkm7CwGmMSIYjs6gVliOYgUqmDXR6H9e5ZEPq1SypgY-peeVr4u-RyTA=="
+org = "998f7a8d8dd312ea"
+token = "URe6e7fuJvvUEXMxLJaF9kP3rookFpbFJQfRwi8zqEO8gh129GApkUt3Kmq5YHSUpfSvig3Zb5u07-vwKGpRFQ=="
 url="http://62.3.170.222:8086"
 
 
